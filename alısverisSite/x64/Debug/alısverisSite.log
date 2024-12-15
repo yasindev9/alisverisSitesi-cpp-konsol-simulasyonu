@@ -1,0 +1,4 @@
+﻿  alısverisSite.cpp
+C:\Users\Yasin\source\repos\alısverisSite\alısverisSite\alısverisSite.cpp(50,3): warning C4551: işlev çağrısında bağımsız değişken listesi eksik
+C:\Users\Yasin\source\repos\alısverisSite\alısverisSite\alısverisSite.cpp(127,1): warning C4717: 'firmaHakkinda' : tüm denetim yollarında özyinelemelidir, işlev çalışma zamanı yığın taşmasına neden olacak
+  alısverisSite.vcxproj -> C:\Users\Yasin\source\repos\alısverisSite\x64\Debug\alısverisSite.exe
