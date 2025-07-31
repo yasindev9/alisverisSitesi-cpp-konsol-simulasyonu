@@ -1,4 +1,4 @@
-# alisverisSitesi cpp konsol uygulaması
+# alisverisSitesi cpp konsol simülasyonu
  TR 
  Kullanıcıların firma bilgilerini görüntüleyebileceği, ürünleri inceleyip sepete ekleyebileceği, alışveriş yapabileceği ve taksitli ödeme seçeneklerinden yararlanabileceği C++ tabanlı konsol uygulaması. Temel e-ticaret işlevlerinin terminal ortamında simülasyonu yapılmıştır.
 
